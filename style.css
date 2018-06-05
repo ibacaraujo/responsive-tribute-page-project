@@ -9,3 +9,8 @@
 #image {
 	max-width: 67%;
 }
+
+#name {
+	font-weight: bold;
+	font-size: 150%;
+}
