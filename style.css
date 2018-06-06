@@ -2,12 +2,10 @@
 	text-align: center;
 }
 
-#img-div {
-	text-align: center;
-}
-
 #image {
-	max-width: 67%;
+	display: block;
+	max-width: 100%;
+	margin: 0 auto;
 }
 
 #name {
