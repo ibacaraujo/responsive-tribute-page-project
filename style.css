@@ -1,15 +1,19 @@
 #title {
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 46px;
 }
 
 #img-div {
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
 }
 
 #image {
 	display: block;
-	max-width: 74%;
+	max-width: 100%;
 	margin: 0 auto;
+	background-size: 100%;
 }
 
 #name {
@@ -18,13 +22,17 @@
 }
 
 #main {
-	width: 88%;
+	width: 96%;
 	border: 1px solid #ccc;
 	border-radius: 5px;
 	margin: 0 auto;
+	margin-top: 15px;
 	padding: 4px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	background-color: rgba(0,0,0,0.01);
 }
 
 #tribute-info {
 	margin-top: 50px;
+	font-family: 'Roboto', sans-serif;
 }
