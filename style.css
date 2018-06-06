@@ -2,13 +2,29 @@
 	text-align: center;
 }
 
+#img-div {
+	text-align: center;
+}
+
 #image {
 	display: block;
-	max-width: 100%;
+	max-width: 74%;
 	margin: 0 auto;
 }
 
 #name {
 	font-weight: bold;
 	font-size: 150%;
+}
+
+#main {
+	width: 88%;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin: 0 auto;
+	padding: 4px;
+}
+
+#tribute-info {
+	margin-top: 50px;
 }
